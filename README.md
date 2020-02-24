@@ -1,5 +1,7 @@
 # Jean's Ticketmaster
-github:
+github: https://github.com/Jean28518/ticketmaster
+
+
 Depends on:
 - https://github.com/minetest-mail/mail
 
